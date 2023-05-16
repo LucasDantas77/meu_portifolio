@@ -16,7 +16,7 @@ export const Footer = styled("footer", {
   },
   [`& ${Container}`]: {
     display: "flex",
-    justifyContent: "space-between",
+    gap: "$5",
     alignItems: "center",
     "@mobile": {
       flexDirection: "column",

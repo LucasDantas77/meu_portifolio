@@ -29,7 +29,7 @@ export const ProjectLink = styled("a", {
   display: "flex",
   alignItems: "center",
   lineHeight: "0",
-
+  
   "&:hover": {
     color: "$grey5",
   },
